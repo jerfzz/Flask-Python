@@ -118,5 +118,3 @@ Durante o desenvolvimento deste projeto, foram estudados:
 
 Este projeto é de livre uso para fins educacionais e de aprendizado.
 Sinta-se à vontade para clonar, modificar e aprimorar. 🚀
-
-```

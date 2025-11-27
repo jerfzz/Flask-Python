@@ -120,8 +120,3 @@ Este projeto é de livre uso para fins educacionais e de aprendizado.
 Sinta-se à vontade para clonar, modificar e aprimorar. 🚀
 
 ```
-
----
-
-Quer que eu adicione um exemplo do arquivo `app.py` (backend Flask) também, para deixar o README completo e funcional?
-```
